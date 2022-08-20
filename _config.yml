@@ -1,0 +1,46 @@
+title: 배우는 모든 것
+author:
+  name: 유나
+  email: mathematike6@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  mathematics(수학)의 어원은 '배우는 모든 것'이라는 뜻의 그리스어 μάθημα 및 그 활용형 μαθηματικός에서 유래한 것이다.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+date_format: "%b %-d, %Y"
+
+# generate social links in footer
+social_links:
+  github:  mathematike
+  # twitter: mathematike
+  # devto: mathematike
+  # dribbble: mathematike
+  # facebook: mathematike
+  # flickr:   mathematike
+  # instagram: mathematike
+  # linkedin: mathematike
+  # pinterest: mathematike
+  # youtube: mathematike
+  # youtube_channel: 
+  # youtube_channel_name: mathematike
+  # telegram: mathematike
+  # googleplus: +mathematike
+  # microdotblog: mathematike
+  # keybase: mathematike
+
+  # Mastodon instances
+  # mastodon:
+  # - username: mathematike
+  #   instance: example.com
+
+  # GitLab instances
+  # gitlab:
+  # - username: mathematike
+  #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
